@@ -2,8 +2,8 @@
 <?php require("PHPMailer/PHPMailerAutoload.php");
 
 // ADD your Email and Name
-$recipientEmail='wpgoocom@gmail.com';
-$recipientName='John Doe';
+$recipientEmail='info@sm8.com.mx';
+$recipientName='sm8 web 4';
 
 //collect the posted variables into local variables before calling $mail = new mailer
 
